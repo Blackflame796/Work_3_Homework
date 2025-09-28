@@ -21,7 +21,8 @@
 9. Конец
 ### Блок-схема
 ![Блок-схема алгоритма](Work_3_Homework_Schema.png) 
-![Ссылка на draw.io](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=%D0%94%D0%97%20%E2%84%963.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1VIbbo_MMAahxq_21L-nKxa5AdoB3oBUH%26export%3Ddownload)
+
+[Ссылка на draw.io](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=%D0%94%D0%97%20%E2%84%963.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1VIbbo_MMAahxq_21L-nKxa5AdoB3oBUH%26export%3Ddownload)
 ---
 
 ## 2. Реализация программы
