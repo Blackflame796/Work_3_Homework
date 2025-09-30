@@ -12,6 +12,11 @@ int main() {
     printf("Введите диаметр шара: ");
     scanf("%f", &diameter);
 
+    if (diameter <= 0) {
+        printf("Ошибка: диаметр должен быть положительным числом\n");
+        return 1;
+    }
+
     radius = diameter / 2.0;
 
     area = 4.0 * PI * (radius * radius);
